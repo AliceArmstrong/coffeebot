@@ -2,10 +2,6 @@
 
 namespace App\Console\Commands;
 
-// use DB;
-// use App\Payment;
-// use App\PaymentType;
-// use Carbon\Carbon;
 use Illuminate\Console\Command;
 use App\Jobs\Pairing;
 
